@@ -1,0 +1,35 @@
+
+
+How to enable arch user repository (aur) and install directly from terminal with yay.
+
+open /etc/pacman.conf
+
+and add following lines:
+
+[archlinuxfr]
+SigLevel = Never
+Server = http://repo.archlinux.fr/$arch
+
+then open terminal and run:
+
+sudo pacman -Sy yay
+
+done!
+
+
+
+
+
+
+
+                                                     OR
+
+To install Yay on any Arch-based systems, run the following commands one by one.
+
+$ sudo pacman -S git
+$ git clone https://aur.archlinux.org/yay.git
+$ cd yay
+$ makepkg -si
+ 
+
+Then enable the AUR and install pa
