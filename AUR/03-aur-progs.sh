@@ -37,7 +37,7 @@ sh install-freefilesync.sh
 
 # downgrade
 
-sh install-downgrade.sh
+sh install-downgrader.sh
 
 ###############################################################################################
 
