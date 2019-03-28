@@ -55,19 +55,19 @@ sh install-vidcutter.sh
 
 # Birdtray
 
-sh install-birdtray.sh
+# sh install-birdtray.sh
 
 ###############################################################################################
 
-# Peek
+# Cherrytree
 
-#sh install-peek-v1.sh
+sh install-cherrytree.sh
 
 ###############################################################################################
 
-# Spotify
+# MultiBootUSB
 
-#sh install-spotify-v1.sh
+sh install-multibootusb.sh
 
 ###############################################################################################
 
