@@ -67,7 +67,7 @@ sh install-cherrytree.sh
 
 # MultiBootUSB
 
-sh install-multibootusb.sh
+# sh install-multibootusb.sh
 
 ###############################################################################################
 
